@@ -77,6 +77,15 @@ flutter:
     - assets/images/wa.png
     - assets/images/lokasi.png
     - assets/images/google.png
+    - hasil/splash1.jpeg
+    - hasil/splash2.jpeg
+    - hasil/splash3.jpeg
+    - hasil/regis.jpeg
+    - hasil/login.jpeg
+    - hasil/tentang.jpeg
+    - hasil/projek.jpeg
+    - hasil/skill.jpeg
+    - hasil/kontak.jpeg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
